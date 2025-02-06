@@ -2,7 +2,8 @@
 ## and explains the steps taken to perform the analysis.
 
 #####################################################################################################
-*****Method to answer "Will the Customer Accept the Coupon?"
+
+Method to answer "Will the Customer Accept the Coupon?"
 
 Step 1: Read & Describe the data to inspect and see if any missing information in the datset.
 Step 2: Format and cleanse the data by handling missing values and converting Categorical to numerical data etc..
@@ -10,17 +11,20 @@ Step 3: Observe the data corrleation using heat map to undertsand the tight corr
 Step 4: Visualize the data using Seaborn and Matplotlib to reveal information
 Step 5: Answer the question based on the visualizations and correlation drawn from above.
 ######################################################################################################
-*****Python Libraries
+
+Python Libraries
 1. Pandas
 2. Matplotlib
 3. Seaborn
 ######################################################################################################
-*****Files
+
+Files
 1. README
 2. Jupyter Notebook with code
 3. dataset in csv format
 #######################################################################################################
-****Findings
+
+Findings
 
 *Found some intersting information from the analysis to answer the question "Will the Customer Accept the Coupon?"
 
@@ -31,18 +35,23 @@ Step 5: Answer the question based on the visualizations and correlation drawn fr
 5. Also, Age groups (21,26,31) showed habits of visiting Carry out, Coffe House & Cheaper restaurant 1~3 times per week
 
 From my Analysis, Younger age groups travelling alone or with friends have higher Carry out, Coffe House & Cheaper restaurant coupon acceptance rate
+#######################################################################################################
 
-Note: There can be other dimensions that can be added to the analysis, like..
+Next steps
+
+There are other dimensions that can be added to the analysis, like..
 a. time at which most coupons are accepted.
 b. Travel time to reach buisness location.
 c. Income
 d. Destination etc..
 
 Adding these would lead to different conclusions and may provide other insights too..
+Combining these features might also lead to insight into characterstics of drivers those who have not accepted the coupons.
 
 Happy Exploration & Analysis!!!
 #######################################################################################################
-*****Dataset Detailed Description
+
+Dataset Detailed Description
 
 Will the Customer Accept the Coupon?
 
